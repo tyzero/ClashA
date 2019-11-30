@@ -6,7 +6,7 @@
 	url = https://github.com/shadowsocks/libancillary.git
 [submodule "app/src/main/clash/src/clash"]
 	path = app/src/main/clash/src/clash
-	url = git@github.com:Dreamacro/clash.git
+	url = https://github.com/Dreamacro/clash.git
 	branch = dev
 [submodule "app/src/main/clash/src/github.com/shadowsocks/overture"]
 	path = app/src/main/clash/src/github.com/shadowsocks/overture
