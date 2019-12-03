@@ -77,7 +77,7 @@ android {
     buildTypes {
         debug {
             minifyEnabled false
-            signingConfig signingConfigs.ccg
+//            signingConfig signingConfigs.ccg
         }
         release {
             minifyEnabled false
